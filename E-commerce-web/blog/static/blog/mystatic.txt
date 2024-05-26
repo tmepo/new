@@ -1,0 +1,1 @@
+This is my blog txt./home/roshan/django/first_site/Ecommerce/Ecommerce_web/blog/static/blog/mystatic.txt
